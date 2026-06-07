@@ -46,7 +46,7 @@ Transitioning retrospective sales tracking into an active statistical prediction
 
 ## 🏃‍♂️ How To Run and Reproduce
 - Clone this repository to your local computer:
-```git clone [https://github.com/subhankar0296/walmart-sales-forecasting.git]```
+```git clone "https://github.com/subhankar0296/walmart-sales-forecasting.git"```
 - Place the file ```walmart-dataset.csv``` inside the root folder alongside the notebook.
 - Install the required dependency frameworks:
 ```pip install pandas numpy statsmodels matplotlib.pyplot plotly scikit-learn```
