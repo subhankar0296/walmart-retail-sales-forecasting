@@ -2,8 +2,8 @@
 
 **Author:** Subhankar Mondal  
 * **Business Problem:** A major national retail brand with multiple outlets faces significant supply chain and inventory management mismatches. Outlets frequently struggle to align supply with localized customer demand, leading to costly stockouts of high-demand items and steep holding fees for overstocked merchandise.
-**Objective:** Build an end-to-end data analytics and predictive pipeline to resolve retail inventory management mismatches by analyzing historical economic drivers and forecasting multi-week store-level sales trajectories.  
-**Tech Stack:** Python, Pandas, Numpy, Statsmodels (SARIMAX), Scikit-Learn (Metrics), Matplotlib, Seaborn
+* **Objective:** Build an end-to-end data analytics and predictive pipeline to resolve retail inventory management mismatches by analyzing historical economic drivers and forecasting multi-week store-level sales trajectories.  
+* **Tech Stack:** Python, Pandas, Numpy, Statsmodels (SARIMAX), Scikit-Learn (Metrics), Matplotlib, Seaborn
 
 ---
 
