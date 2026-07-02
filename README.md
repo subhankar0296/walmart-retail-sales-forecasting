@@ -9,7 +9,6 @@ The project combines data preparation, exploratory data analysis, statistical di
 **Objective:** Analyze historical sales patterns, evaluate external factors, and build a SARIMAX forecasting model to predict future weekly sales and support inventory planning.  
 **Tech Stack:** Python, Pandas, NumPy, Statsmodels (SARIMAX), Scikit-Learn (Metrics), Matplotlib, Seaborn.  
 
----
 
 ## 🎯 Project Architecture
 
@@ -53,6 +52,7 @@ This forecasting solution can help retailers:
 ├── walmart-retails-sales-forecasting.ipynb   # Core execution analytical pipeline
 └── README.md                                 # Technical project brief and insights manual
 ```
+
 
 👤 Author
 Subhankar Mondal
