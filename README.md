@@ -56,7 +56,7 @@ This forecasting solution can help retailers:
 ---
 
 ### 👤 Author
-Subhankar Mondal
+#### Subhankar Mondal
 Data Analytics | Python | SQL | Power BI | Excel
 
 Feel free to connect with me on LinkedIn or explore my other analytics projects.
