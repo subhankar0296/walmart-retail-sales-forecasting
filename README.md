@@ -22,30 +22,30 @@ The project combines data preparation, exploratory data analysis, statistical di
 ---
 
 ## 📈 Key Insights
--- Weekly sales show strong annual seasonality, with demand peaking during major holiday periods.
--- Holiday weeks consistently generate the highest sales throughout the year.
--- Unemployment has a stronger relationship with sales than other external variables for several stores.
--- Applying a log transformation stabilizes sales variance and improves forecasting performance.
--- The SARIMAX model effectively captures both trend and seasonal patterns for short-term forecasting.
+* Weekly sales show strong annual seasonality, with demand peaking during major holiday periods.
+* Holiday weeks consistently generate the highest sales throughout the year.
+* Unemployment has a stronger relationship with sales than other external variables for several stores.
+* Applying a log transformation stabilizes sales variance and improves forecasting performance.
+* The SARIMAX model effectively captures both trend and seasonal patterns for short-term forecasting.
 
 ## 📊 Forecast Output
 
 The final model provides:
 
--- 12-week weekly sales forecasts
--- 95% confidence intervals
--- Forecast visualizations alongside historical sales
--- Business-ready forecast tables for planning and analysis
+* 12-week weekly sales forecasts
+* 95% confidence intervals
+* Forecast visualizations alongside historical sales
+* Business-ready forecast tables for planning and analysis
 
 ## 💼 Business Value
 
 This forecasting solution can help retailers:
 
--- Improve inventory planning
--- Reduce stock shortages during peak demand
--- Minimize excess inventory costs
--- Support data-driven purchasing decisions
--- Enhance operational planning during seasonal demand
+* Improve inventory planning
+* Reduce stock shortages during peak demand
+* Minimize excess inventory costs
+* Support data-driven purchasing decisions
+* Enhance operational planning during seasonal demand
 
 ## 📂 Repository Structure
 ```text
