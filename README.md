@@ -59,7 +59,7 @@ This forecasting solution can help retailers:
 │ 
 ├── walmart-retails-sales-forecasting.ipynb   # Core execution analytical pipeline
 │ 
-└── README.md                                 # Technical project brief and insights manual
+└── README.md                                 # Technical project brief and insights
 ```
 ---
 
