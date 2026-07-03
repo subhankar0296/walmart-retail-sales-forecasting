@@ -49,8 +49,16 @@ This forecasting solution can help retailers:
 
 ## 📂 Repository Structure
 ```text
+├──Images/
+│          ├── Sales_by_Store.png
+│          ├── Seasonal_Decomposition.png
+│          ├── Model_Prediction_Accuracy.png
+│          └── Future_12_Weeks_Forecast.png
+│ 
 ├── walmart-dataset.csv                       # Multi-store transactional dataset
+│ 
 ├── walmart-retails-sales-forecasting.ipynb   # Core execution analytical pipeline
+│ 
 └── README.md                                 # Technical project brief and insights manual
 ```
 ---
